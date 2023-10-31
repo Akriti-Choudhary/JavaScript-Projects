@@ -1,0 +1,18 @@
+body {
+    margin: 20px;
+  }
+  
+  .calculator {
+    width: 180px;
+  }
+  
+  .cal-buttons {
+    text-align: center;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  
+  .cal-buttons:hover {
+    background-color: yellow;
+  }
+  
